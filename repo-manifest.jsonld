@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/coleifer/flask-peewee/commit/3e39055bedf449feaf6fc6baa31c6373900f7828",
       "git:hexsha": "3e39055bedf449feaf6fc6baa31c6373900f7828",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/coleifer/flask-peewee/commit/88bfffa36333e240b87bbd83414e96992c624905",
